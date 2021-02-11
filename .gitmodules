@@ -1,0 +1,12 @@
+[submodule "PoliWebSearch.Parser"]
+	path = PoliWebSearch.Parser
+	url = https://github.com/pedroaz/PoliWebSearch.Parser
+	branch = master
+[submodule "PoliWebSearch.UI"]
+	path = PoliWebSearch.UI
+	url = https://github.com/pedroaz/PoliWebSearch.UI.git
+	branch = master
+[submodule "PoliWebSearch.DatabaseFunctions"]
+	path = PoliWebSearch.DatabaseFunctions
+	url = https://github.com/pedroaz/PoliWebSearch.DatabaseFunctions.git
+	branch = master
