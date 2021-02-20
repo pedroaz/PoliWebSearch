@@ -6,14 +6,14 @@
 
 ### **Offline Parser**
 * Repo: https://github.com/pedroaz/PoliWebSearch.Parser
-* Project Board: https://github.com/pedroaz/PoliWebSearch.Parser
-* Description: 
+* Kanban Board: https://github.com/pedroaz/PoliWebSearch.Parser/projects/1
+* Description: Project which handles parsing government files and uploading all data into the database.
 ### **Azure Functions**
 * Repo: https://github.com/pedroaz/PoliWebSearch.DatabaseFunctions
-* Project Board: 
-* Description: 
+* Kanban Board: https://github.com/pedroaz/PoliWebSearch.DatabaseFunctions/projects/1
+* Description: Project which queries the database and returns data
 ### **UI**
 * Repo: https://github.com/pedroaz/PoliWebSearch.UI
-* Project Board: https://github.com/pedroaz/PoliWebSearch.UI/projects/1
-* Description: 
+* Kanban Board: https://github.com/pedroaz/PoliWebSearch.UI/projects/1
+* Description: Web Interface built with angular which uses the azure functions to show user data
 
