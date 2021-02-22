@@ -18,3 +18,7 @@ https://github.com/users/pedroaz/projects/1
 * Repo: https://github.com/pedroaz/PoliWebSearch.UI
 * Description: Web Interface built with angular which uses the azure functions to show user data
 
+## Architecture Diagram
+
+![Architecture Diagram](https://github.com/pedroaz/PoliWebSearch.UI/blob/6c0424814ea60e54865b137a4eddeed90dccb731/src/assets/images/PoliWebSearch-System-Architecure.png)
+
